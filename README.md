@@ -21,4 +21,3 @@ You will need Oracle Java JDK or OpenJDK to compile the program. Compile the mai
 One of the main reasons to create JAstroAspects is to create an open and free (free as in freespeech) vedic astrological software. Although I like Jagannatha Hora a lot, it is not open source which makes me really itchy. That's why I released this software under Apache License 2.0 so it will remain free and open.
 
 Although I released under Apache License 2.0, let me ask you to kindly release the source if you modify the software. So that the community has chance to improve our work.
-
