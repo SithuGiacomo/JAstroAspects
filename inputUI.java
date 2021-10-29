@@ -363,8 +363,6 @@ public class inputUI extends JFrame {
             }
         });
 
-
-
         // creating bgPanel which holds planetPanel, housePanel and buttonPanel
         JPanel bgPanel = new JPanel(new GridBagLayout());
         GridBagConstraints bgPanelConstraints = new GridBagConstraints();
